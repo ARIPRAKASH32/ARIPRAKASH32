@@ -148,7 +148,7 @@ Become a Software Engineer in a Product-Based Company.
 
 </a>
 
-<a href="YOUR_CODEFORCES_LINK">
+<a href="[YOUR_CODEFORCES_LINK](https://codeforces.com/profile/ariprakash32)">
 
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
 
