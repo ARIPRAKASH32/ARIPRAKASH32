@@ -1,16 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Ariprakash N
+<h1>👋 Hi, I'm Ariprakash N</h1>
 
-### 💻 Software Engineering Student | Java Developer | Python Developer
+<h3>💻 Software Engineering Student | Java Developer | Python Developer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Java+Developer;Python+Programmer;DSA+Enthusiast;Full+Stack+Learner;Future+Software+Engineer" />
 
-<br>
+<br><br>
 
 <a href="https://ariprakash.onrender.com">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Live-success?style=for-the-badge"/>
 </a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
@@ -18,101 +20,102 @@
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
 
-🎓 **B.Tech Information Technology Student**
+<h1>👨‍💻 About Me</h1>
+
+🎓 <b>B.Tech Information Technology Student</b>
 
 🏫 Sri Shanmugha College of Engineering and Technology
 
 💡 Passionate about building real-world software solutions.
 
-🌱 Currently Learning
+<h3>🌱 Currently Learning</h3>
 
-- Java
-- Python
-- Data Structures & Algorithms
-- Full Stack Development
+Java<br>
+Python<br>
+Data Structures & Algorithms<br>
+Full Stack Development
 
-🎯 Goal
+<h3>🎯 Goal</h3>
 
 Become a Software Engineer in a Product-Based Company.
 
----
-
-# 🌐 Portfolio
-
-## 🚀 Live Portfolio
-
-### https://ariprakash.onrender.com
+</div>
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
 
-### Programming Languages
+<h1>🌐 Portfolio</h1>
 
-<p>
+<h2>🚀 Live Portfolio</h2>
+
+<a href="https://ariprakash.onrender.com">
+https://ariprakash.onrender.com
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1>🚀 Tech Stack</h1>
+
+<h2>Programming Languages</h2>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
 
-</p>
+<br><br>
 
-### Web Technologies
-
-<p>
+<h2>Web Technologies</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
-</p>
+<br><br>
 
-### Database
-
-<p>
+<h2>Database</h2>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-</p>
+<br><br>
 
-### Tools
-
-<p>
+<h2>Tools</h2>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Project
+<div align="center">
 
-## 🖐 Hand Gesture Controlled Virtual Mouse
+<h1>🚀 Featured Project</h1>
 
-### Features
+<h2>🖐 Hand Gesture Controlled Virtual Mouse</h2>
 
-✅ Real-Time Hand Tracking
+<h3>Features</h3>
 
-✅ Cursor Movement
-
-✅ Left Click
-
-✅ Right Click
-
-✅ Drag & Drop
-
-✅ Scroll
-
+✅ Real-Time Hand Tracking<br>
+✅ Cursor Movement<br>
+✅ Left Click<br>
+✅ Right Click<br>
+✅ Drag & Drop<br>
+✅ Scroll<br>
 ✅ Screenshot Gesture
 
-### Tech Used
+<h3>Tech Used</h3>
 
-- Python
-- OpenCV
-- MediaPipe
-- PyAutoGUI
+Python • OpenCV • MediaPipe • PyAutoGUI
+
+</div>
 
 ---
 
-# 🏆 Achievements
+<div align="center">
+
+<h1>🏆 Achievements</h1>
 
 🥇 1st Prize — Code Vertex
 
@@ -120,9 +123,13 @@ Become a Software Engineer in a Product-Based Company.
 
 🏅 Active Competitive Programmer
 
+</div>
+
 ---
 
-# 📚 Certifications
+<div align="center">
+
+<h1>📚 Certifications</h1>
 
 ✔ NPTEL — Java Programming
 
@@ -130,99 +137,70 @@ Become a Software Engineer in a Product-Based Company.
 
 ✔ Udemy — HTML & CSS
 
----
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="https://leetcode.com/u/ARIPRAKASH_N/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-<a href="[YOUR_CODEFORCES_LINK](https://codeforces.com/profile/ariprakash32)">
-
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
-
-</a>
-
-</p>
-
----
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏅 LeetCode Statistics
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/ARIPRAKASH_N?theme=dark&font=Poppins&ext=contest"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://ariprakash.onrender.com">
-
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-```text
-Replace YOUR_GITHUB_USERNAME below after creating the snake workflow.
-
-https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg
-```
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile ⭐
+<h1>💻 Coding Profiles</h1>
 
-### 🚀 Code • Learn • Build • Repeat
+<a href="https://leetcode.com/u/ARIPRAKASH_N/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/ariprakash32">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+<h1>🔥 GitHub Streak</h1>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1>🏅 LeetCode Statistics</h1>
+
+<img src="https://leetcard.jacoblin.cool/ARIPRAKASH_N?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1>🌐 Connect With Me</h1>
+
+<a href="https://ariprakash.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
