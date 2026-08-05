@@ -161,18 +161,6 @@ Python • OpenCV • MediaPipe • PyAutoGUI
 
 ---
 
-<div align="center">
-
-<h1>🔥 GitHub Streak</h1>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
 <h1>🏅 LeetCode Statistics</h1>
 
 <img src="https://leetcard.jacoblin.cool/ARIPRAKASH_N?theme=dark&font=Poppins&ext=contest"/>
