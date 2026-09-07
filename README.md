@@ -1,208 +1,99 @@
-<div align="center">
+# Ariprakash N
 
-<h1>👋 Hi, I'm Ariprakash N</h1>
+**Software Engineering Student · Java & Python Developer**
 
-<h3>💻 Software Engineering Student | Java Developer | Python Developer</h3>
+B.Tech Information Technology student at Sri Shanmugha College of Engineering and Technology, focused on building real-world software and strengthening core CS fundamentals through consistent problem-solving.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Java+Developer;Python+Programmer;DSA+Enthusiast;Full+Stack+Learner;Future+Software+Engineer" />
+[🌐 Portfolio](https://ariprakash.onrender.com) &nbsp;|&nbsp; [💼 LinkedIn](#) &nbsp;|&nbsp; [📧 Email](#)
 
-<br><br>
-
-<a href="https://ariprakash.onrender.com">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Live-success?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ARIPRAKASH&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=ARIPRAKASH&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-<div align="center">
+## About
 
-<h1>👨‍💻 About Me</h1>
-
-🎓 <b>B.Tech Information Technology Student</b><br><br>
-
-🏫 Sri Shanmugha College of Engineering and Technology<br><br>
-
-💡 Passionate about building real-world software solutions.<br><br>
-
-<h3>🌱 Currently Learning</h3>
-
-Java<br>
-Python<br>
-Data Structures & Algorithms<br>
-Full Stack Development
-
-<br>
-
-<h3>🎯 Goal</h3>
-
-Become a Software Engineer in a Product-Based Company.
-
-</div>
+- 🎓 B.Tech in Information Technology
+- 💡 Interested in software development, DSA, and full-stack engineering
+- 🌱 Currently strengthening: Java, Python, Data Structures & Algorithms, Full Stack Development
+- 🎯 Goal: Software Engineer role at a product-based company
 
 ---
 
-<div align="center">
+## Tech Stack
 
-<h1>🌐 Portfolio</h1>
-
-<h2>🚀 Live Portfolio</h2>
-
-<a href="https://ariprakash.onrender.com">
-https://ariprakash.onrender.com
-</a>
-
-</div>
+`Java` `Python` `C` `C++` `HTML` `CSS` `JavaScript` `MySQL` `Git` `GitHub` `VS Code` `Linux`
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-<h1>🚀 Tech Stack</h1>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARIPRAKASH&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARIPRAKASH&theme=default&hide_border=true" width="49%" alt="GitHub Streak" />
+</p>
 
-<h2>Programming Languages</h2>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
-
-<br><br>
-
-<h2>Web Technologies</h2>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
-<br><br>
-
-<h2>Database</h2>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<br><br>
-
-<h2>Tools</h2>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-</div>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIPRAKASH&layout=compact&hide_border=true&theme=default" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARIPRAKASH&theme=minimal&hide_border=true" width="49%" alt="Activity Graph" />
+</p>
 
 ---
 
-<div align="center">
+## LeetCode Statistics
 
-<h1>🚀 Featured Project</h1>
-
-<h2>🖐 Hand Gesture Controlled Virtual Mouse</h2>
-
-<h3>Features</h3>
-
-✅ Real-Time Hand Tracking<br>
-✅ Cursor Movement<br>
-✅ Left Click<br>
-✅ Right Click<br>
-✅ Drag & Drop<br>
-✅ Scroll<br>
-✅ Screenshot Gesture
-
-<br>
-
-<h3>Tech Used</h3>
-
-Python • OpenCV • MediaPipe • PyAutoGUI
-
-</div>
+<img src="https://leetcard.jacoblin.cool/ARIPRAKASH_N?theme=light&ext=contest" alt="LeetCode Stats" />
 
 ---
 
-<div align="center">
+## Featured Project
 
-<h1>🏆 Achievements</h1>
+### Hand Gesture Controlled Virtual Mouse
+A computer vision project that lets users control the mouse cursor using hand gestures instead of physical hardware.
 
-🥇 1st Prize — Code Vertex<br><br>
+**Features**
+- Real-time hand tracking
+- Cursor movement via gesture
+- Left click, right click, and drag & drop
+- Scroll control
+- Screenshot gesture
 
-🥈 2nd Prize — Code Rescue<br><br>
-
-🏅 Active Competitive Programmer
-
-</div>
-
----
-
-<div align="center">
-
-<h1>📚 Certifications</h1>
-
-✔ NPTEL — Java Programming<br><br>
-
-✔ NPTEL — Python Programming<br><br>
-
-✔ Udemy — HTML & CSS
-
-</div>
+**Built with:** Python · OpenCV · MediaPipe · PyAutoGUI
 
 ---
 
-<div align="center">
+## Achievements
 
-<h1>💻 Coding Profiles</h1>
-
-<a href="https://leetcode.com/u/ARIPRAKASH_N/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/ariprakash32">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
-</a>
-
-</div>
+- 🥇 1st Prize — Code Vertex
+- 🥈 2nd Prize — Code Rescue
+- 🏅 Active competitive programmer
 
 ---
 
-<div align="center">
+## Certifications
 
-<h1>🏅 LeetCode Statistics</h1>
-
-<img src="https://leetcard.jacoblin.cool/ARIPRAKASH_N?theme=dark&font=Poppins&ext=contest"/>
-
-</div>
+- NPTEL — Java Programming
+- NPTEL — Python Programming
+- Udemy — HTML & CSS
 
 ---
 
-<div align="center">
+## Coding Profiles
 
-<h1>🌐 Connect With Me</h1>
-
-<a href="https://ariprakash.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ARIPRAKASH">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+| Platform | Profile |
+|---|---|
+| LeetCode | [ARIPRAKASH_N](https://leetcode.com/u/ARIPRAKASH_N/) |
+| Codeforces | [ariprakash32](https://codeforces.com/profile/ariprakash32) |
+| HackerRank | Add your profile link |
 
 ---
 
-<div align="center">
+## Connect
 
-<h2>⭐ Thanks for visiting my GitHub Profile ⭐</h2>
+- 🌐 Portfolio: [ariprakash.onrender.com](https://ariprakash.onrender.com)
+- 💼 LinkedIn: Add your LinkedIn URL
+- 🐙 GitHub: [ARIPRAKASH](https://github.com/ARIPRAKASH)
+- 📧 Email: Add your email
 
-<h3>🚀 Code • Learn • Build • Repeat</h3>
+---
 
-</div>
+<sub>Thanks for stopping by — always open to collaborating on interesting projects.</sub>
